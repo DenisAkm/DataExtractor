@@ -1,0 +1,27 @@
+C:\Users\Denis\Documents\Документы 2017\МИГ-35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\bin\Release\TableDataExtractor.exe.config
+C:\Users\Denis\Documents\Документы 2017\МИГ-35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\bin\Release\TableDataExtractor.exe
+C:\Users\Denis\Documents\Документы 2017\МИГ-35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\bin\Release\TableDataExtractor.pdb
+C:\Users\Denis\Documents\Документы 2017\МИГ-35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.Form1.resources
+C:\Users\Denis\Documents\Документы 2017\МИГ-35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.Properties.Resources.resources
+C:\Users\Denis\Documents\Документы 2017\МИГ-35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.csproj.GenerateResource.Cache
+C:\Users\Denis\Documents\Документы 2017\МИГ-35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.exe
+C:\Users\Denis\Documents\Документы 2017\МИГ-35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.pdb
+C:\Users\Denis\Documents\Документы 2017\МИГ-35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Документы 2017\35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\bin\Release\TableDataExtractor.exe.config
+C:\Users\Denis\Documents\Документы 2017\35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\bin\Release\TableDataExtractor.exe
+C:\Users\Denis\Documents\Документы 2017\35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\bin\Release\TableDataExtractor.pdb
+C:\Users\Denis\Documents\Документы 2017\35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Документы 2017\35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.Form1.resources
+C:\Users\Denis\Documents\Документы 2017\35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.Properties.Resources.resources
+C:\Users\Denis\Documents\Документы 2017\35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.csproj.GenerateResource.Cache
+C:\Users\Denis\Documents\Документы 2017\35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.exe
+C:\Users\Denis\Documents\Документы 2017\35 _ испытания образцов\С# Обработка таблиц\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.pdb
+C:\Users\Denis\YandexDisk\Работа\TableDataExtractor\TableDataExtractor\bin\Release\TableDataExtractor.exe.config
+C:\Users\Denis\YandexDisk\Работа\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.exe
+C:\Users\Denis\YandexDisk\Работа\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.pdb
+C:\Users\Denis\YandexDisk\Работа\TableDataExtractor\TableDataExtractor\bin\Release\TableDataExtractor.exe
+C:\Users\Denis\YandexDisk\Работа\TableDataExtractor\TableDataExtractor\bin\Release\TableDataExtractor.pdb
+C:\Users\Denis\YandexDisk\Работа\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Denis\YandexDisk\Работа\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.Form1.resources
+C:\Users\Denis\YandexDisk\Работа\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.Properties.Resources.resources
+C:\Users\Denis\YandexDisk\Работа\TableDataExtractor\TableDataExtractor\obj\Release\TableDataExtractor.csproj.GenerateResource.Cache
